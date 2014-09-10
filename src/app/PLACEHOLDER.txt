@@ -1,0 +1,2 @@
+Your application would go here, or in another directory, next to src/lib.
+Multiple applications could be here, next to each other.
