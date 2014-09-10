@@ -1,0 +1,3 @@
+* add description, contract, test for keyExtension in format / parse
+
+* npm? cpm? keep git modules?
