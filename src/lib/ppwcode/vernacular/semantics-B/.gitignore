@@ -1,0 +1,5 @@
+.idea/
+lib/dojox/
+atlassian-ide-plugin.xml
+demo/img/
+node_modules
