@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dojox" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Dojo" />
+      <option name="frameworkVersion" value="1.10.4" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/lib/dojo/dojox" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lib/dojo/dojox" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://dojotoolkit.org/api" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>

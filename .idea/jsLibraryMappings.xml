@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/src/app" libraries="{Dojo, dijit}" />
+    <file url="file://$PROJECT_DIR$/src/lib/dgrid" libraries="{Dojo, dijit, dstore, put-selector, xstyle}" />
+    <file url="file://$PROJECT_DIR$/src/lib/dgrid_0_3" libraries="{Dojo, dijit, put-selector, xstyle}" />
+    <file url="file://$PROJECT_DIR$/src/lib/dojo/dijit" libraries="{Dojo}" />
+    <file url="file://$PROJECT_DIR$/src/lib/dojo/dojox" libraries="{Dojo, dijit}" />
+    <file url="file://$PROJECT_DIR$/src/lib/dojo/util" libraries="{Dojo}" />
+    <file url="file://$PROJECT_DIR$/src/lib/dstore" libraries="{Dojo}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode" libraries="{Dojo}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode/util/oddsAndEnds/bindingChains.js" libraries="{dojox}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode/util/oddsAndEnds/ui" libraries="{dijit}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode/util/oddsAndEnds/ui/multiSelect" libraries="{dijit}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode/vernacular/persistence/PersistentObjectDStore.js" libraries="{dstore}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode/vernacular/persistence/ui" libraries="{dgrid-0.3}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode/vernacular/semantics" libraries="{dojox}" />
+    <file url="file://$PROJECT_DIR$/src/lib/ppwcode/vernacular/semantics/ui" libraries="{dijit}" />
+    <excludedPredefinedLibrary name="HTML" />
+  </component>
+</project>

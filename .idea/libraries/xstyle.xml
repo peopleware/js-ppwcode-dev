@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="xstyle" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/lib/xstyle" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lib/xstyle" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

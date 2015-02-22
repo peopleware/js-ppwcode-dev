@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Non-PeopleWare Libraries" pattern="file[js-ppwcode-dev]:src/lib/dgrid//*||file[js-ppwcode-dev]:src/lib/dgrid_0_3//*||file[js-ppwcode-dev]:src/lib/dojo//*||file[js-ppwcode-dev]:src/lib/dstore//*||file[js-ppwcode-dev]:src/lib/put-selector//*||file[js-ppwcode-dev]:src/lib/xstyle//*" />
+</component>

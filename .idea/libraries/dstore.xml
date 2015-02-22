@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dstore" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Dojo" />
+      <option name="frameworkVersion" value="1.10.4" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/lib/dstore" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lib/dstore" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="https://github.com/SitePen/dstore" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>

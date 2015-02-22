@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dgrid-0.4" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Dojo" />
+      <option name="frameworkVersion" value="1.10.4" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/lib/dgrid" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lib/dgrid" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="https://github.com/SitePen/dgrid/tree/v0.4.0/doc" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
