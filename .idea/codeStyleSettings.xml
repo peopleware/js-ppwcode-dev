@@ -30,8 +30,13 @@
         </CssCodeStyleSettings>
         <JSCodeStyleSettings>
           <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+          <option name="REFORMAT_C_STYLE_COMMENTS" value="false" />
           <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
         </JSCodeStyleSettings>
+        <JSON>
+          <option name="OBJECT_WRAPPING" value="5" />
+          <option name="ARRAY_WRAPPING" value="5" />
+        </JSON>
         <XML>
           <option name="XML_KEEP_WHITESPACES" value="true" />
           <option name="XML_ATTRIBUTE_WRAP" value="4" />
@@ -54,6 +59,7 @@
           </indentOptions>
         </codeStyleSettings>
         <codeStyleSettings language="JSON">
+          <option name="WRAP_LONG_LINES" value="true" />
           <indentOptions>
             <option name="CONTINUATION_INDENT_SIZE" value="2" />
             <option name="TAB_SIZE" value="2" />
