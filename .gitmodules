@@ -37,3 +37,6 @@
 [submodule "src/lib/ppwcode/vernacular/persistence"]
 	path = src/lib/ppwcode/vernacular/persistence
 	url = https://github.com/peopleware/js-ppwcode-vernacular-persistence.git
+[submodule "src/lib/ppwcode/vernacular/value"]
+	path = src/lib/ppwcode/vernacular/value
+	url = https://github.com/peopleware/js-ppwcode-vernacular-value.git
