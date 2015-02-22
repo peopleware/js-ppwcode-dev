@@ -1,2 +1,2 @@
-This directory contains git subtrees of all js-ppwcode-vernacular- projects, organised
+This directory contains git submodules of all js-ppwcode-vernacular- projects, organised
 in a tree structure.
