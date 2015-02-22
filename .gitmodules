@@ -46,3 +46,6 @@
 [submodule "src/lib/dstore"]
 	path = src/lib/dstore
 	url = https://github.com/SitePen/dstore.git
+[submodule "src/lib/dgrid_0_3"]
+	path = src/lib/dgrid_0_3
+	url = https://github.com/SitePen/dgrid.git
