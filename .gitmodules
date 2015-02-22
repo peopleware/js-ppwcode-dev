@@ -31,3 +31,6 @@
 [submodule "src/lib/ppwcode/vernacular/exceptions"]
 	path = src/lib/ppwcode/vernacular/exceptions
 	url = https://github.com/peopleware/js-ppwcode-vernacular-exceptions.git
+[submodule "src/lib/ppwcode/vernacular/semantics"]
+	path = src/lib/ppwcode/vernacular/semantics
+	url = https://github.com/peopleware/js-ppwcode-vernacular-semantics.git
