@@ -3,9 +3,9 @@ js-ppwcode-dev
 
 If you want to develop any of the js-ppwcode- projects, check out this über-repo.
 
-The actual js-ppwcode- repositories are included as git subtrees, and external
+The actual js-ppwcode- repositories are included as git submodules, and external
 dependencies are setup in the way expected by the js-ppwcode- projects as git
-submodules. The usual caveats for working with subtrees and submodules apply.
+submodules. The usual caveats for working with submodules apply.
 
 You should copy this way of working for an application, where the js-ppwcode-
 and other projects are external dependencies. For external dependencies, submodules
@@ -23,10 +23,7 @@ in that respect in the js-ppwcode- projects.
 
 Getting started
 ---------------
-This project is defined  with subtrees and submodules.
-
-For subtrees, you don't have to do anything to get started.
-This repository actually contains a copy of that source code.
+This project is defined  with submodules.
 
 To download the submodules, use the literal git commands:
 
@@ -64,7 +61,7 @@ Tests
 DOH is only supported for the time being, until all tests are moved to
 Intern.
 
-When the submodules are downloaded, the DOH tests should work out 
+When the submodules are downloaded, the DOH tests should work out
 of the box when you navigate your browser to
 `src/lib/ppwcode/[util|vernacular]/PROJECT/_test/_doh/runTest.html`.
 Make sure to run the tests on a web server.
@@ -89,8 +86,8 @@ Make sure to run the tests on a web server.
 #### Run in NodeJS
 The tests can also be run using NodeJS.
 
-To run the tests, execute the following command in the root 
-directory: 
+To run the tests, execute the following command in the root
+directory:
 
     > node node_modules/intern/client config=src/lib/ppwcode/[util|vernacular]/PROJECT/_test/_intern/intern
 
