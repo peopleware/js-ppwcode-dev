@@ -40,3 +40,6 @@
 [submodule "src/lib/ppwcode/vernacular/value"]
 	path = src/lib/ppwcode/vernacular/value
 	url = https://github.com/peopleware/js-ppwcode-vernacular-value.git
+[submodule "src/lib/ppwcode/vernacular/semantics-B"]
+	path = src/lib/ppwcode/vernacular/semantics-B
+	url = https://github.com/peopleware/js-ppwcode-vernacular-semantics-B.git
