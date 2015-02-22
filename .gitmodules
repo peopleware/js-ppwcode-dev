@@ -19,3 +19,12 @@
 [submodule "src/lib/xstyle"]
 	path = src/lib/xstyle
 	url = https://github.com/kriszyp/xstyle.git
+[submodule "src/lib/ppwcode/util/contracts"]
+	path = src/lib/ppwcode/util/contracts
+	url = https://github.com/peopleware/js-ppwcode-util-contracts.git
+[submodule "src/lib/ppwcode/util/collections"]
+	path = src/lib/ppwcode/util/collections
+	url = https://github.com/peopleware/js-ppwcode-util-collections.git
+[submodule "src/lib/ppwcode/util/oddsAndEnds"]
+	path = src/lib/ppwcode/util/oddsAndEnds
+	url = https://github.com/peopleware/js-ppwcode-util-oddsAndEnds.git
