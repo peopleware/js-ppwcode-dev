@@ -28,3 +28,6 @@
 [submodule "src/lib/ppwcode/util/oddsAndEnds"]
 	path = src/lib/ppwcode/util/oddsAndEnds
 	url = https://github.com/peopleware/js-ppwcode-util-oddsAndEnds.git
+[submodule "src/lib/ppwcode/vernacular/exceptions"]
+	path = src/lib/ppwcode/vernacular/exceptions
+	url = https://github.com/peopleware/js-ppwcode-vernacular-exceptions.git
