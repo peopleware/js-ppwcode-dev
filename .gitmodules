@@ -43,3 +43,6 @@
 [submodule "src/lib/ppwcode/vernacular/semantics-B"]
 	path = src/lib/ppwcode/vernacular/semantics-B
 	url = https://github.com/peopleware/js-ppwcode-vernacular-semantics-B.git
+[submodule "src/lib/dstore"]
+	path = src/lib/dstore
+	url = https://github.com/SitePen/dstore.git
