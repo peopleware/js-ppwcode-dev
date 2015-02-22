@@ -129,14 +129,14 @@ define(["dojo/_base/declare", "dojo/dom-style",
       _setPersistentObjectPaneAttr: function(poPane) {
         // summary:
         //    Set the persistentObjectPane. If it has a target, and we have no target,
-        //    that becomes are new target.
+        //    that becomes our new target.
         // description:
         //    Note that the old persistentObjectPane was not created by us,
         //    and thus also is not destroyed by us!
 
         // TODO poDetail target type is a PersistentObject
 
-        // might be called implicity by constructor of WidgetBase
+        // might be called implicitly by constructor of WidgetBase
         var oldPoPane = this.get("persistentObjectPane");
         if (oldPoPane) {
           oldPoPane.set("target", null);
@@ -173,8 +173,15 @@ define(["dojo/_base/declare", "dojo/dom-style",
         //   Override: before we save, put the focus on the button, to make sure
         //   that the last edited field has lost focus. This might be necessary
         //   (onChange) to propagate changes from the field to the viewmodel object.
+        //   We also call a preSave function on the child pane in case it exists.
+        //   The preSave is the place to write code that need to be executed right before the save.
+        //   It is the ideal place to update some properties before saving the persistentObject.
 
         this._btnSave.focus();
+        var pane = this.get("persistentObjectPane");
+        if (pane && pane.preSave && typeof pane.preSave === "function") {
+          pane.preSave();
+        }
         this.inherited(arguments);
       },
 
