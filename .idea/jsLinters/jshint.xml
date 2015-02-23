@@ -31,7 +31,7 @@
     <option laxbreak="false" />
     <option laxcomma="false" />
     <option loopfunc="false" />
-    <option maxcomplexity="6" />
+    <option maxcomplexity="10" />
     <option maxdepth="5" />
     <option maxerr="50" />
     <option maxstatements="30" />
@@ -52,6 +52,7 @@
     <option passfail="false" />
     <option phantom="false" />
     <option plusplus="false" />
+    <option predef="console, define, require" />
     <option proto="false" />
     <option prototypejs="false" />
     <option quotmark="true" />
@@ -60,11 +61,11 @@
     <option shadow="false" />
     <option smarttabs="false" />
     <option strict="false" />
-    <option sub="false" />
+    <option sub="true" />
     <option supernew="false" />
     <option trailing="true" />
     <option undef="true" />
-    <option unused="true" />
+    <option unused="vars" />
     <option validthis="false" />
     <option white="false" />
     <option worker="false" />

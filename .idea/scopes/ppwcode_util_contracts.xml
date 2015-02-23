@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="ppwcode-util-contracts" pattern="file[js-ppwcode-dev]:src/lib/ppwcode/util/contracts//*" />
+</component>

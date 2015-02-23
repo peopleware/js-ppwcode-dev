@@ -1,3 +1,3 @@
 <component name="DependencyValidationManager">
-  <scope name="ppwcode" pattern="file[js-ppwcode-dev]:src/lib/ppwcode//*" />
+  <scope name="ppwcode" pattern="file[js-ppwcode-dev]:src/lib/ppwcode//*&amp;&amp;!file[js-ppwcode-dev]:src/lib/ppwcode/util/oddsAndEnds/log/log4javascript_uncompressed.js" />
 </component>

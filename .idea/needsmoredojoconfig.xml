@@ -10,6 +10,11 @@
         <option value="doh/main(doh" />
         <option value="dojo/sniff(has" />
         <option value="doh/main(doh" />
+        <option value="ppwcode-util-contracts/_Mixin(_ContractMixin" />
+        <option value="ppwcode-util-contracts/_Mixin(_ContractsMixin" />
+        <option value="dojo/dom-geometry(domGeom" />
+        <option value="ppwcode/util/oddsAndEnds/log/main(log4javascript" />
+        <option value="dojo/_base/window(win" />
       </list>
     </option>
     <option name="dojoSourcesDirectory" value="$PROJECT_DIR$/src/lib/dojo" />
