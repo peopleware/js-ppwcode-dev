@@ -52,7 +52,7 @@
     <option passfail="false" />
     <option phantom="false" />
     <option plusplus="false" />
-    <option predef="console, define, require" />
+    <option predef="console, define, require, alert, confirm" />
     <option proto="false" />
     <option prototypejs="false" />
     <option quotmark="true" />
