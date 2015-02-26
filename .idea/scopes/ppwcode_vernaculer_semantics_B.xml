@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="ppwcode-vernaculer-semantics-B" pattern="file[js-ppwcode-dev]:src/lib/ppwcode/vernacular/semantics-B//*" />
+</component>
