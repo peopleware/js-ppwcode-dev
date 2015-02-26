@@ -17,6 +17,7 @@
         <option value="dojo/_base/window(win" />
         <option value="ppwcode-util-collections/ArraySet(Set" />
         <option value="ppwcode/vernacular/persistence/polymorphAmdRevive(revive" />
+        <option value="ppwcode/vernacular/semantics-B/_util/contracts/_Mixin(_ContractMixin" />
       </list>
     </option>
     <option name="dojoSourcesDirectory" value="$PROJECT_DIR$/src/lib/dojo" />
