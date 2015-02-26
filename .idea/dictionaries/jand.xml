@@ -4,10 +4,13 @@
       <w>&amp;amp</w>
       <w>aleph</w>
       <w>appenders</w>
+      <w>atto</w>
       <w>falsy's</w>
+      <w>femto</w>
       <w>fieldset</w>
       <w>focusable</w>
       <w>formatters</w>
+      <w>giga</w>
       <w>gmail</w>
       <w>guid</w>
       <w>implementor</w>
@@ -16,16 +19,22 @@
       <w>licensable</w>
       <w>licensor</w>
       <w>mozilla</w>
+      <w>nano</w>
       <w>notarget</w>
       <w>papaioannou</w>
       <w>performant</w>
+      <w>pico</w>
       <w>scrollbar</w>
       <w>scroller</w>
       <w>submodules</w>
       <w>tabindex</w>
       <w>unhidable</w>
       <w>untriaged</w>
+      <w>yocto</w>
+      <w>yotta</w>
       <w>yyyy</w>
+      <w>zepto</w>
+      <w>zetta</w>
     </words>
   </dictionary>
 </component>
