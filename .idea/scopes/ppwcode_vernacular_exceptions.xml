@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="ppwcode-vernacular-exceptions" pattern="file[js-ppwcode-dev]:src/lib/ppwcode/vernacular/exceptions//*" />
+</component>

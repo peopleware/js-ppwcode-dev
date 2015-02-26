@@ -355,7 +355,7 @@
         <option name="m_maxLength" value="32" />
       </scope>
       <scope name="ppwcode" level="WARNING" enabled="true">
-        <option name="m_regex" value="[a-z][A-Za-z0-9]*" />
+        <option name="m_regex" value="[A-Za-z0-9]*" />
         <option name="m_minLength" value="1" />
         <option name="m_maxLength" value="32" />
       </scope>
@@ -484,6 +484,6 @@
       <scope name="Application" level="ERROR" enabled="true" />
       <scope name="ppwcode" level="ERROR" enabled="true" />
     </inspection_tool>
-    <inspection_tool class="XmlUnboundNsPrefix" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="XmlUnboundNsPrefix" enabled="true" level="INFO" enabled_by_default="true" />
   </profile>
 </component>

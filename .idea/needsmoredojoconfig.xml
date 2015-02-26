@@ -15,6 +15,8 @@
         <option value="dojo/dom-geometry(domGeom" />
         <option value="ppwcode/util/oddsAndEnds/log/main(log4javascript" />
         <option value="dojo/_base/window(win" />
+        <option value="ppwcode-util-collections/ArraySet(Set" />
+        <option value="ppwcode/vernacular/persistence/polymorphAmdRevive(revive" />
       </list>
     </option>
     <option name="dojoSourcesDirectory" value="$PROJECT_DIR$/src/lib/dojo" />

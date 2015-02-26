@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="ppwcode-vernacular-persistence" pattern="file[js-ppwcode-dev]:src/lib/ppwcode/vernacular/persistence//*" />
+</component>
